@@ -1,0 +1,1 @@
+<?php echo '<form><input placeholder="Username"><input type="password" placeholder="Password"><button>Register</button></form>'; ?>
